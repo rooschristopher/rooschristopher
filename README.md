@@ -1,4 +1,16 @@
-### Hi there 👋
+
+
+### 👋 Hi, I'm Christopher Roos.
+# I Build Great Websites.
+
+ HTML
+ CSS
+ JavaScript
+ Python
+ 
+I'm a web developer based in Idaho Falls, Idaho.
+I specialize in building great websites and web applications.
+
 
 <!--
 **rooschristopher/rooschristopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
