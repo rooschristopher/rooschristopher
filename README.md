@@ -2,14 +2,7 @@
 
 ### 👋 Hi, I'm Christopher Roos.
 # I Build Great Websites and Web Applications. 
-
-*  HTML
-*  CSS
-* JavaScript
-* Python
- 
 I'm a web developer based in Idaho Falls, Idaho.
-I specialize in building great websites and web applications.
 
 
 ## Frontend Development
