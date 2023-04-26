@@ -29,10 +29,6 @@ I offer a variety of maintenance services to help you keep your website or web a
 
 I offer a variety of analytics services to help you track user behavior and gather valuable insights into how your website is performing. My analytics services include Google Analytics setup, custom reporting, user behavior analysis, and A/B testing.
 
-**Let's Get Started
-Ready to take your web presence to the next level?
-Contact me today to discuss your project and get a free quote.**
-
 ### Why Choose Me?
 
 Whether you need a simple website or a complex web application, I have the skills and expertise to deliver a quality product that meets your needs. Contact me today to discuss your project and get started! I am a highly skilled and experienced web developer who is passionate about delivering high-quality work. I have a strong attention to detail and am committed to ensuring that every project I work on meets the unique needs and goals of my clients. Whether you need a simple website or a complex web application, I have the expertise to deliver a product that exceeds your expectations. Contact me today to learn more about how I can help you take your web presence to the next level.
