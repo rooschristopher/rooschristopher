@@ -66,6 +66,12 @@ I use AI as a core part of my engineering workflow — not as autocomplete, but 
 
 ---
 
+### 📝 Writing
+
+**[Engineering Strategy for DevOps & SRE Teams](https://github.com/rooschristopher/engineering-strategy)** — A practical framework covering toil elimination, shift-left quality, contract testing, safe deployments, and agentic AI.
+
+---
+
 ### 📊 Stats
 
 <div align="center">
